@@ -7,3 +7,5 @@ filename.txt is the original file filename.bin is the binary encoded file and fi
 
 Books that I encoded : http://www.gutenberg.org/files/46/46-0.txt (A Christmas Carol)
 http://www.gutenberg.org/files/2097/2097-0.txt (The Sign of The Four)
+
+Github Repositoryhttps://github.com/tommo01458/ECM-1417-Huffman
